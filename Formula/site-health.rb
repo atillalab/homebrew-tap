@@ -1,8 +1,8 @@
 class SiteHealth < Formula
   desc "Fast CLI for checking website and domain health"
   homepage "https://github.com/atillalab/site-health"
-  url "https://github.com/atillalab/site-health/archive/refs/tags/v0.15.0.tar.gz"
-  sha256 "e390f28eaea96b963cfdddc8eb66efd290e0b07e8bc8c3542805620b0aef0674"
+  url "https://github.com/atillalab/site-health/archive/refs/tags/v0.16.0.tar.gz"
+  sha256 "018cee424c8c02af644012f26ea027f0bf97afed8d962c4c9ffbafd0344b3fe3"
   license "MIT"
 
   depends_on "go" => :build
