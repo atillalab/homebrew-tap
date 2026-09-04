@@ -1,8 +1,8 @@
 class Kickoff < Formula
   desc "Football fixtures from multiple sources, queryable through a CLI and AI agents"
   homepage "https://github.com/atillalab/kickoff"
-  url "https://github.com/atillalab/kickoff/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "2666c8dc3bea4957a8a2c38fbe24c7cef681d503bb870bcaa7e3f4dbcf730ebd"
+  url "https://github.com/atillalab/kickoff/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "dc0af9c2add74530718970c78843dacd3691fd2f6a8e2d5e95321bb30e1106ca"
   license "MIT"
 
   depends_on "go" => :build
